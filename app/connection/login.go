@@ -3,7 +3,7 @@ package connection
 import (
 	"fmt"
 
-	whatsapp "github.com/Rhymen/go-whatsapp"
+	whatsapp "go.mau.fi/whatsmeow"
 )
 
 func Login(whatsapp *whatsapp.Conn) whatsapp.Session {

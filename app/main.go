@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/eaceto/whatsapp-bot-test/app/connection"
+	"github.com/keevferreira/whatsapp-bot-test/app/connection"
 )
 
 func main() {
